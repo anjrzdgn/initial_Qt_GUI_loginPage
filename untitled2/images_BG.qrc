@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix2">
+        <file>smallized/main_menu copy.jpg</file>
+        <file>smallized/show_data_after_signin copy.jpg</file>
+        <file>smallized/sign_in copy.jpg</file>
+        <file>smallized/sign_up copy.jpg</file>
+        <file>smallized/tranc.png</file>
+        <file>smallized/ico_file.ico</file>
+    </qresource>
+</RCC>
